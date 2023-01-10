@@ -27,6 +27,13 @@ function Section() {
             alt='Magnetic Speaking'
           />
         </a>
+        <a href='https://calculator-chi-blush.vercel.app/' target='_blank'>
+          <img
+            className='project-images'
+            src='/img/Calculator-Resized.png'
+            alt='Javascript Calculator'
+          />
+        </a>
       </div>
 
       <hr class='hr' />
