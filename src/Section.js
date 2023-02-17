@@ -3,14 +3,14 @@ function Section() {
     <section className='projects'>
       <h2>Projects</h2>
       <div className='img-container'>
-        <a href='https://git-friends.vercel.app/' target='_blank'>
+        <a href='https://getting-friends-react.vercel.app/' target='_blank'>
           <img
             className='project-images'
             src='/img/friends.png'
             alt='Git-friends'
           />
         </a>
-        <a href='https://wikipedia-search-umber.vercel.app/' target='_blank'>
+        <a href='https://wikipedia-search-react.vercel.app/' target='_blank'>
           <img
             className='project-images'
             src='/img/Wikipedia-Search.png'
@@ -27,11 +27,11 @@ function Section() {
             alt='Magnetic Speaking'
           />
         </a>
-        <a href='https://calculator-chi-blush.vercel.app/' target='_blank'>
+        <a href='https://calculator-react-ashen.vercel.app/' target='_blank'>
           <img
             className='project-images'
-            src='/img/Calculator-Resized.png'
-            alt='Javascript Calculator'
+            src='/img/React2.png'
+            alt='React Calculator'
           />
         </a>
       </div>
