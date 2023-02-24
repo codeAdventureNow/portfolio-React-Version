@@ -44,6 +44,16 @@ function Section() {
             alt='Sign-In-Form'
           />
         </a>
+        <a
+          href='https://react-hook-form-project-4dhjuiivd-codeadventurenow.vercel.app/'
+          target='_blank'
+        >
+          <img
+            className='project-images'
+            src='/img/React-Hook-Form.jpg'
+            alt='React-Hook-Form'
+          />
+        </a>
       </div>
 
       <hr class='hr' />
