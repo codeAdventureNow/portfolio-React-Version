@@ -54,6 +54,23 @@ function Section() {
             alt='React-Hook-Form'
           />
         </a>
+        <a
+          href='https://idea-board-2-0-71a96sybu-codeadventurenow.vercel.app/'
+          target='_blank'
+        >
+          <img
+            className='project-images'
+            src='/img/IdeaBoard.jpg'
+            alt='Idea-Board'
+          />
+        </a>
+        <a href='https://markdown-react-markdown.vercel.app/' target='_blank'>
+          <img
+            className='project-images'
+            src='/img/Markdown.jpg'
+            alt='Markdown-Previewer'
+          />
+        </a>
       </div>
 
       <hr class='hr' />
