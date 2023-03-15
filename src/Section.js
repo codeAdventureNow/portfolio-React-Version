@@ -71,6 +71,13 @@ function Section() {
             alt='Markdown-Previewer'
           />
         </a>
+        <a href='https://pomodoro-blush-five.vercel.app/' target='_blank'>
+          <img
+            className='project-images'
+            src='/img/pomodoro.jpg'
+            alt='pomodoro-timer'
+          />
+        </a>
       </div>
 
       <hr class='hr' />
