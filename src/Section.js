@@ -55,7 +55,7 @@ function Section() {
           />
         </a>
         <a
-          href='https://idea-board-2-0-71a96sybu-codeadventurenow.vercel.app/'
+          href='https://idea-board-2-0.vercel.app/'
           target='_blank'
         >
           <img
